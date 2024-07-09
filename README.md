@@ -5,7 +5,6 @@
 
     <div id="loading-screen">
         <div class="spinner"></div>
-        <br>
         <span>PAGINA EN CONSTRUCCION...</span>
         <h3>Programadores: <br> Andre Herrera <br> Antony Solano <br> Antony Gonzales <br> Jean Carlos Falcón   </h3>
       </div>
