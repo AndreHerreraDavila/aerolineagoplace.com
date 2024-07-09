@@ -1,2 +1,20 @@
-# aerolineagoplace.com
-una pagina de aerolinea
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="codigo.css">
+  <body>
+
+    <div id="loading-screen">
+        <div class="spinner"></div>
+        <br>
+        <span>PAGINA EN CONSTRUCCION...</span>
+        <h3>Programadores: <br> Andre Herrera <br> Antony Solano <br> Antony Gonzales <br> Jean Carlos Falcón   </h3>
+      </div>
+    <script>
+      window.addEventListener("load", function () {
+        const loaderWrapper = document.getElementById("loader-wrapper");
+        loaderWrapper.style.display = "none";
+      });
+
+    </script>
+  </body>
+</html>
